@@ -5,7 +5,7 @@
 	<title><?php if ($title){echo $title;}else{$title="test PHP";} ?></title>
 	<meta name="robots" content="noindex, nofollow">
 	<?php
-	// description
+	// default description
 	
 	print '<meta name="';
 	print 'description" ';
@@ -19,6 +19,7 @@
 	} 
 	
 	print '">';
+	
 	?> 
 	<meta name="keywords" content="<?php echo $kw; ?>" >
 	<meta name="author" content=" X. Y. Z.">
