@@ -1,6 +1,6 @@
 <?php 
-$title = "Test Page";
-$desc  = 'This is index page';
+$title = 'Hello World';
+$desc  = 'This is the index page';
 $kw    = 'This are the keywords';
 include('includes/header.php');
 
@@ -9,33 +9,7 @@ include('includes/header.php');
 <?php
 //this is a comment
 
-$secret= 98899889;	
-$name = array('Name1', 'Name2', 'Name3', 'Name4');
-
-$persons = array(
-	'name' => 'Name A',
-	'age' => 33,
-	'location' => 'Location X'
-);
-
-echo 'Number of names in array: ', count($name), "<br>";
-
-foreach ($name as $key => $value){
-	echo $key + 1, '. ', $value; 
-	if(($key + 1) !== count($name)){
-		echo '<br>';
-	}
-}
-echo '<br>';
-
-echo "info about a person", '</br>';
-$string='';
-foreach($persons as $key => $value){
-	$string .= $key . '=' . $value . $secret;
-}
-
-print $string;
-echo '<pre>', print_r($persons, true), '</pre>';
+echo "<h1> {$title} </h1>";
 
 ?>
 
