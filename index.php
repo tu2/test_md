@@ -7,9 +7,8 @@ include('includes/header.php');
 ?>
 	
 <?php
-//add text
-//new text
-//new comment
+//this is a comment
+
 $secret= 98899889;	
 $name = array('Name1', 'Name2', 'Name3', 'Name4');
 
