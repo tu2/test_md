@@ -14,6 +14,11 @@ echo "<p>Today is: ";
 echo date('l, F jS Y.');
 echo "</p>";
 
+//creating a table
+
+echo "<h2>Index table</h2>\n";
+
+
 ?>
 
 
