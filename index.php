@@ -7,9 +7,12 @@ include('includes/header.php');
 ?>
 	
 <?php
-//this is a comment
+//test page
 
 echo "<h1> {$title} </h1>";
+echo "<p>Today is: ";
+echo date('l, F jS Y.');
+echo "</p>";
 
 ?>
 
