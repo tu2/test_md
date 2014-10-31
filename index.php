@@ -26,13 +26,13 @@ $string = array(
 	'key3' => 'value3'
 	);
 
-	print "<table>\n";
-	foreach ($string as $k => $v){
-		print '<tr bgcolor="' . $raw_color[$color_index] . '" >';
-		print "<td> $k </td><td> $v </td>\n</tr>\n";
-		$color_index = 1 - $color_index;
-	}
-	print '</table>';
+print "<table>\n";
+foreach ($string as $k => $v){
+	print '<tr bgcolor="' . $raw_color[$color_index] . '" >';
+	print "<td> $k </td><td> $v </td>\n</tr>\n";
+	$color_index = 1 - $color_index;
+}
+print '</table>';
 	
 ?>
 
