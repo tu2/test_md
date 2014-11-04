@@ -2,7 +2,7 @@
 <?php
 
 // Seriously, there is nothing in here
-perint '&copy;2014 tu2';
+print '&copy;2014 tu2';
 
 ?>
 </body>
