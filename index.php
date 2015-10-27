@@ -7,7 +7,7 @@ include('includes/header.php');
 ?>
 	
 <?php
-//test page
+//this is just a test page
 
 echo "<h1> {$title} </h1>";
 echo "<p>Today is: ";
