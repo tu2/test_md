@@ -1,5 +1,5 @@
 <?php 
-$title = 'Hello World';
+$title = 'Test';
 $desc  = 'This is the index page';
 $kw    = 'This are the keywords';
 include('includes/header.php');
