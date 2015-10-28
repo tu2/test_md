@@ -1,4 +1,4 @@
 testGit
 =======
 
-This is a joke, alright!
+This is a joke, all right!
