@@ -22,6 +22,6 @@
 	
 	?> 
 	<meta name="keywords" content="<?php echo $kw; ?>" >
-	<meta name="author" content=" X. Y. Z.">
+	<meta name="author" content="X.Y.Z.">
 </head>
 <body>
