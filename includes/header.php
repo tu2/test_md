@@ -6,7 +6,6 @@
 	<meta name="robots" content="noindex, nofollow">
 	<?php
 	// default description
-	
 	print '<meta name="';
 	print 'description" ';
 	print 'content="';
@@ -25,3 +24,6 @@
 	<meta name="author" content="X.Y.Z.">
 </head>
 <body>
+<?php
+// buld a menu ...
+?>
