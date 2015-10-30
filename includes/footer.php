@@ -1,9 +1,16 @@
 <!--footer-->
+
+<p>&copy;
 <?php
+$startY = 2001;
+$nowY = date('Y');
+if($startY == $nowY){
+	echo $startY;
+}else{
+	echo "{$startY}&ndash;{$nowY}";
+}
 
-// Seriously, there is nothing in here
-echo '&copy;' . date('Y') . ' tu2';
-
-?>
+?> 
+ tu2</p>
 </body>
 </html>
