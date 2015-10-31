@@ -30,7 +30,6 @@ foreach ($string as $k => $v){
 	print "<td> $k </td><td> $v </td>\n</tr>\n";
 	$color_index = 1 - $color_index;
 	
-	print '<br />';
 }
 print '</table>';
 	
