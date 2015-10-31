@@ -1,11 +1,14 @@
 <?php 
+/*
+* this is just a test page
+*/
 $title = 'Test';
 $desc  = 'This is the main page';
 $kw    = 'These are the keywords';
-
+// page header
 include('includes/header.php');
 
-//this is just a test page
+// content of the page
 
 echo "<h1> {$title} </h1>";
 echo "<p>Today is: ";
@@ -33,7 +36,7 @@ foreach ($string as $k => $v){
 }
 print '</table>';
 	
-
+// page footer
 include ('includes/footer.php');
 
 ?>
