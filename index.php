@@ -1,7 +1,7 @@
 <?php 
 $title = 'Test';
 $desc  = 'This is the main page';
-$kw    = 'This are the keywords';
+$kw    = 'These are the keywords';
 
 include('includes/header.php');
 
