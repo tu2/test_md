@@ -2,11 +2,9 @@
 $title = 'Test';
 $desc  = 'This is the index page';
 $kw    = 'This are the keywords';
+
 include('includes/header.php');
 
-?>
-	
-<?php
 //this is just a test page
 
 echo "<h1> {$title} </h1>";
@@ -36,11 +34,6 @@ foreach ($string as $k => $v){
 }
 print '</table>';
 	
-?>
-
-
-
-<?php
 
 include ('includes/footer.php');
 
