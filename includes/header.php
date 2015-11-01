@@ -25,5 +25,7 @@
 </head>
 <body>
 <?php
-// buld a menu ...
+
+// bild a menu ...
+
 ?>
