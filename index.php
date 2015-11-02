@@ -16,26 +16,45 @@ echo "<p>Today is: ";
 echo date('l, F jS Y.');
 echo "</p>";
 
-//creating a table
 
-echo "<h2>Index table</h2>\n";
+echo "<h2>Select a colour</h2>\n";
+?>
 
-$raw_color = array('#F7D0C3', '#C3EAF7');
-$color_index = 0;
-$string = array(
-	'key1' => 'value1',
-	'key2' => 'value2',
-	'key3' => 'value3'
-	);
+<?php
+	
+if (!isset($_POST['submit'])){
+	
+?>
+	
+	<form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
+		Select as many as you like:<br />
+		<input type="checkbox" name="colours[]" value="Blue">Blue
+		<input type="checkbox" name="colours[]" value="Red">Red
+		<input type="checkbox" name="colours[]" value="Green">Green
+		<input type="checkbox" name="colours[]" value="Purple">Purple
+		<input type="submit" name="submit" value="Select">
+	</form>	
+	
+<?php
 
-print "<table>\n";
-foreach ($string as $k => $v){
-	print '<tr bgcolor="' . $raw_color[$color_index] . '" >';
-	print "<td> $k </td><td> $v </td>\n</tr>\n";
-	$color_index = 1 - $color_index;
+}
+else{
+	
+	if(!isset($_POST['colours'])){
+		echo 'Nothing selected';
+		
+	}
+	else{
+		echo 'You selected: <br />';
+		foreach($_POST['colours'] as $a){
+			echo "<i>$a</i><br />";
+		}
+	}
 	
 }
-print '</table>';
+?>
+
+<?php
 	
 // page footer
 include ('includes/footer.php');
