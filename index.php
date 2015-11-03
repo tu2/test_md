@@ -21,7 +21,8 @@ echo "<h2>Select a colour</h2>\n";
 ?>
 
 <?php
-	
+
+// create a checkbox form using post	
 if (!isset($_POST['submit'])){
 	
 ?>
