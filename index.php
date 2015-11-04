@@ -3,9 +3,11 @@
 * This is just a test page using PHP and HTML
 *
 */
+
 $title = 'Test';
 $desc  = 'This is the main page';
 $kw    = 'These are the keywords';
+
 // page header
 include('includes/header.php');
 
