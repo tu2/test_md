@@ -29,12 +29,12 @@ test
 
 This is a sample of code
 
-'''
+```
 def add(a, b):
 	return a+b
 
 add(12,20)
-'''
+```
 
 
 This is a **joke**, all right!
