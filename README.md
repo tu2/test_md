@@ -27,6 +27,15 @@ test
 2. Item2
 3. Item3
 
+This is a sample of code
+
+'''
+def add(a, b):
+	return a+b
+
+add(12,20)
+'''
+
 
 This is a **joke**, all right!
 I am just having fun!
