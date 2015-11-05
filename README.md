@@ -28,5 +28,5 @@ test
 3. Item3
 
 
-*This is a **joke**, all right*!
+This is a **joke**, all right!
 I am just having fun!
