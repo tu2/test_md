@@ -10,6 +10,9 @@ test
 ##### Header5
 ###### Header6
 
+
+####Blockquotes
+
 >You are confined only by the walls you build yourself
 
 ```
@@ -37,6 +40,9 @@ Any road will get you there.
 2. Item2
 3. Item3
 
+
+
+####Code
 This is a sample of code
 
 ```
