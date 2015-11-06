@@ -11,7 +11,7 @@ test
 ###### Header6
 
 
-####Blockquotes
+#### Blockquotes
 
 >You are confined only by the walls you build yourself
 
@@ -21,8 +21,8 @@ If you don't know where you're going
 Any road will get you there.
 ```
 
-###Lists
-####Unordered lists
+### Lists
+#### Unordered lists
 
 * Item1
 * Item2
@@ -34,15 +34,17 @@ Any road will get you there.
 - Item3
 
 
-####Ordered lists
+#### Ordered lists
 
 1. Item1
 2. Item2
 3. Item3
 
+#### Styling text
 
+_This text_ is _italic_ and **this text** is **bold** 
 
-####Code
+#### Code
 This is a sample of code
 
 ```
