@@ -56,6 +56,13 @@ def add(a, b):
 add(12,20)
 ```
 
+#### Tables
+
+Table Header1 | Table Header2
+------------- | -------------
+cell1         | cell2
+cell3         | cell4
+
 
 This is a **joke**, all right!
 I am just having fun!
