@@ -49,7 +49,7 @@ _This text_ is *italic* and **this text** is **bold**
 This is a sample of code
 
 
-```
+```python
 def add(a, b):
 	return a+b
 
