@@ -58,10 +58,10 @@ add(12,20)
 
 #### Tables
 
-Table Header1 | Table Header2
-------------- | -------------
-cell1         | cell2
-cell3         | cell4
+| Left Header1 | Center Header2 | Right Header3 |
+| :----------- | :------------: | ------------: |
+| cell1        | cell2          | cell3         |
+| cell4        | cell5          | cell6         |
 
 
 This is a **joke**, all right!
