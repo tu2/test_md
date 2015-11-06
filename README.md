@@ -16,7 +16,6 @@ test
 >You are confined only by the walls you build yourself
 
 ```
-
 If you don't know where you're going
 Any road will get you there.
 ```
@@ -42,10 +41,13 @@ Any road will get you there.
 
 #### Styling text
 
-_This text_ is _italic_ and **this text** is **bold** 
+_This text_ is *italic* and **this text** is **bold**
 
-#### Code
+**These can be _combined_ if needed**
+
+#### Code blocks
 This is a sample of code
+
 
 ```
 def add(a, b):
