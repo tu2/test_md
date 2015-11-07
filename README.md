@@ -60,8 +60,10 @@ add(12,20)
 
 | Left Header1 | Center Header2 | Right Header3 |
 | :----------- | :------------: | ------------: |
-| cell1        | cell2          | cell3         |
-| cell4        | cell5          | cell6         |
+| cell1        | cell5          | cell9         |
+| cell2        | cell6          | cell10        |
+| cell3        | cell7          | cell11        |
+| cell4        | cell8          | cell12        |
 
 
 This is a **joke**, all right!
