@@ -27,11 +27,9 @@ Any road will get you there.
 * Item2
 * Item3
 
-
 - Item1
 - Item2
 - Item3
-
 
 #### Ordered lists
 
@@ -42,12 +40,12 @@ Any road will get you there.
 #### Nested lists
 
 1. Item1
-	* item_a
-	* item_b
-	* item_c
+	* item_1-a
+	* item_1-b
+	* item_1-c
 2. Item2
-	* item_2-a_
-	* item_2-b_
+	* item_2-a
+	* item_2-b
 
 ### Styling text
 
