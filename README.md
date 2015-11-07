@@ -11,7 +11,7 @@ test
 ###### Header6
 
 
-#### Blockquotes
+### Blockquotes
 
 >You are confined only by the walls you build yourself
 
@@ -39,13 +39,23 @@ Any road will get you there.
 2. Item2
 3. Item3
 
-#### Styling text
+#### Nested lists
+
+1. Item1
+	* item_a
+	* item_b
+	* item_c
+2. Item2
+	* item_2-a_
+	* item_2-b_
+
+### Styling text
 
 _This text_ is *italic* and **this text** is **bold**
 
 **These can be _combined_ if needed**
 
-#### Code blocks
+### Code blocks
 This is a sample of code
 
 
@@ -56,7 +66,7 @@ def add(a, b):
 add(12,20)
 ```
 
-#### Tables
+### Tables
 
 | Left Header1 | Center Header2 | Right Header3 |
 | :----------- | :------------: | ------------: |
