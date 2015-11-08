@@ -67,8 +67,8 @@ function add($a, $b){
 	return $a + $b;
 
 }
-$result = add(12,20)
-echo 'result = ' . $result
+$result = add(12,20);
+echo 'result = ' . $result;
 
 ```
 
