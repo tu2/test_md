@@ -27,10 +27,6 @@ Any road will get you there.
 * Item2
 * Item3
 
-- Item1
-- Item2
-- Item3
-
 #### Ordered lists
 
 1. Item1
