@@ -60,6 +60,17 @@ def add(a, b):
 add(12,20)
 ```
 
+```php
+
+function add($a, $b){
+	
+	return $a + $b;
+
+}
+add(12,20)
+
+```
+
 ### Tables
 
 | Left Header1 | Center Header2 | Right Header3 |
