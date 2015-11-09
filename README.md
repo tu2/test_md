@@ -81,6 +81,9 @@ echo 'result = ' . $result;
 | cell3        | cell7          | cell11        |
 | cell4        | cell8          | cell12        |
 
+#### Links
+link [to GitHub](https://www.github.com)
+
 
 This is a **joke**, all right!
 I am just having fun!
