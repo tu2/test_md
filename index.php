@@ -5,8 +5,8 @@
 */
 
 $title = 'Test';
-$desc  = 'This is the main page';
-$kw    = 'These are the keywords';
+$desc  = 'Main page';
+$kw    = 'Keywords';
 
 // page header
 include('includes/header.php');
