@@ -4,7 +4,7 @@
 *
 */
 
-$title = 'Test';
+$title = 'Test page';
 $desc  = 'Main page';
 $kw    = 'Keywords';
 
