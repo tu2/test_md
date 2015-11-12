@@ -83,6 +83,7 @@ echo 'result = ' . $result;
 
 #### Links
 link [to GitHub](https://www.github.com)
+or just this https://github.com/tu2
 
 
 This is a **joke**, all right!
