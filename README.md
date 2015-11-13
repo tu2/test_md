@@ -89,7 +89,7 @@ Or just this https://github.com/tu2
 #### Task Lists
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [-] list syntax required (any unordered or ordered list supported)
+- [ ] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
