@@ -54,14 +54,16 @@ This is a sample of code
 
 
 ```python
-def add(a, b):
-	return a+b
-
-add(12,20)
+def fib(n):
+	a, b = 0, 1
+	while a < n:
+		print(a, end=' ')
+		a, b = b, a+b
+	print()
+fib(100)
 ```
 
 ```php
-
 function add($a, $b){
 	
 	return $a + $b;
