@@ -14,11 +14,7 @@ include('includes/header.php');
 // content of the page
 
 echo "<h1> {$title} </h1>";
-echo "<p>Today is: ";
-echo date('l, F jS Y.');
-echo "</p>";
-
-
+echo "<p>Today is: " . date('l, F jS Y.') . "</p>";
 echo "<h2>Select a colour</h2>\n";
 ?>
 
