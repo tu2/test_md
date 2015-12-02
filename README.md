@@ -1,10 +1,3 @@
-:ledger: test
-=======
-
-Test2
-=======
-
-
 
 # Header1
 ## Header2
@@ -12,7 +5,6 @@ Test2
 #### Header4
 ##### Header5
 ###### Header6
-
 
 ### Blockquotes
 
@@ -22,7 +14,6 @@ Test2
 If you don't know where you're going
 Any road will get you there.
 ```
-
 ### Lists
 #### Unordered lists
 
@@ -55,7 +46,6 @@ _This text_ is *italic* and **this text** is **bold**
 ### Code blocks
 This is a sample of code
 
-
 ```python
 def fib(n):
 	a, b = 0, 1
@@ -65,7 +55,6 @@ def fib(n):
 	print()
 fib(100)
 ```
-
 ```php
 function add($a, $b){
 	
@@ -76,7 +65,6 @@ $result = add(12,20);
 echo 'result = ' . $result;
 
 ```
-
 ### Tables
 
 | Left Header1 | Center Header2 | Right Header3 |
