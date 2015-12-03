@@ -13,6 +13,7 @@
 ```
 If you don't know where you're going
 Any road will get you there.
+
 ```
 ### Lists
 #### Unordered lists
@@ -44,6 +45,7 @@ _This text_ is *italic* and **this text** is **bold**
 **These can be _combined_ if needed**
 
 ### Code blocks
+
 This is a sample of code
 
 ```python
@@ -54,6 +56,7 @@ def fib(n):
 		a, b = b, a+b
 	print()
 fib(100)
+
 ```
 ```php
 function add($a, $b){
@@ -75,6 +78,7 @@ echo 'result = ' . $result;
 | cell4        | cell8          | cell12        |
 
 #### Links
+
 Link [to GitHub](https://www.github.com)
 
 Or just this https://github.com/tu2
