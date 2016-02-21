@@ -1,3 +1,4 @@
+**I used this repository to practice github!**
 
 # Header1
 ## Header2
@@ -5,8 +6,6 @@
 #### Header4
 ##### Header5
 ###### Header6
-
-**I used this repository to practice github!**
 
 ### Blockquotes
 
