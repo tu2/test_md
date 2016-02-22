@@ -1,4 +1,4 @@
-**I used this repository to practice github!**
+**This is a test repository to practice github!**
 
 # Header1
 ## Header2
