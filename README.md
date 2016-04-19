@@ -1,6 +1,6 @@
 **This is a test repository** 
 
-Where I learned practiced github and markdown!
+Where I learned and practiced github and markdown!
 
 # Header1
 ## Header2
