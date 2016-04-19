@@ -1,4 +1,6 @@
-**This is a test repository to practice github!**
+**This is a test repository** 
+
+Here, I practiced github and markdown!
 
 # Header1
 ## Header2
