@@ -92,4 +92,4 @@ Or just this https://github.com/tu2
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-I am having a lot of fun! :smile:
+I'm having a lot of fun! :smile:
