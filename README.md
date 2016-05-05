@@ -93,3 +93,5 @@ Or just this https://github.com/tu2
 - [ ] this is an incomplete item
 
 :thumbsup: I'm having a lot of fun! :heart: :smile:
+
+The best [emoji cheat-sheet](http://www.emoji-cheat-sheet.com/)
