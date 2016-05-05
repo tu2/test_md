@@ -92,6 +92,6 @@ Or just this https://github.com/tu2
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-:thumbsup: I'm having a lot of fun! :heart: :smile:
+:thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
 
-The best [emoji cheat-sheet](http://www.emoji-cheat-sheet.com/)
+Here is the best [emoji cheat-sheet](http://www.emoji-cheat-sheet.com/) for github.
