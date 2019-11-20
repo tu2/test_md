@@ -51,6 +51,17 @@ _This text_ is *italic* and **this text** is **bold**
 
 This is a sample of code
 
+```c
+long int factorial(int n)
+{
+    if (n ==1)
+        return 1;
+    else
+        return n* factorial(n-1);
+}
+
+```
+
 ```python
 def fib(n):
 	a, b = 0, 1
@@ -95,3 +106,4 @@ Or just this https://github.com/tu2
 :thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
 
 Here is the best [emoji cheat-sheet](http://www.emoji-cheat-sheet.com/) for github.
+
