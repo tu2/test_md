@@ -49,18 +49,20 @@ _This text_ is *italic* and **this text** is **bold**
 
 ### Code blocks
 
-This is a sample of code
+Code sample
+**C**
 
 ```c
 long int factorial(int n)
 {
-    if (n ==1)
+    if (n == 1)
         return 1;
     else
-        return n* factorial(n-1);
+        return n * factorial(n-1);
 }
 
 ```
+**Python**
 
 ```python
 def fib(n):
@@ -72,6 +74,8 @@ def fib(n):
 fib(100)
 
 ```
+**PHP**
+
 ```php
 function add($a, $b){
 	
