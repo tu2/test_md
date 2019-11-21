@@ -50,6 +50,7 @@ _This text_ is *italic* and **this text** is **bold**
 ### Code blocks
 
 Code sample
+
 **C**
 
 ```c
