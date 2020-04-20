@@ -1,8 +1,7 @@
-**This is a test repository** 
+# This is a test
 
-Learn and practice github and markdown!
+**Learn and practice github and markdown!**
 
-# Header1
 ## Header2
 ### Header3
 #### Header4
