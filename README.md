@@ -17,7 +17,8 @@ If you don't know where you're going
 Any road will get you there.
 
 ```
->One often meets his destiny on the road he takes to avoid it. ~Kung Fu Panda~
+>One often meets his destiny on the road he takes to avoid it. 
+Kung Fu Panda
 
 ### Lists
 #### Unordered lists
