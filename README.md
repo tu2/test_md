@@ -21,8 +21,8 @@ Any road will get you there.
 Kung Fu Panda
 
 ```
-"There is a saying: yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the "present." 
-														Kung-Fu Panda
+There is a saying: yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present. 
+													     Kung-Fu Panda
 														
 ```
 
