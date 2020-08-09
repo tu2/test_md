@@ -62,7 +62,18 @@ Code sample
 
 **C**
 
+factorial.c
 ```c
+#include <stdio.h>
+
+long int factorial(int n);
+
+int main(void)
+{	
+	int x = 7;
+	printf("%d factorial is %ld\n", x, factorial(x));
+	return 0;
+}
 long int factorial(int n)
 {
     if (n == 1)
@@ -72,6 +83,10 @@ long int factorial(int n)
 }
 
 ```
+```shell
+gcc factorial.c -o factorial
+```
+
 **Python**
 
 ```python
