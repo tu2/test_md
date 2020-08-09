@@ -64,16 +64,18 @@ Code sample
 
 factorial.c
 ```c
+/* factorial.c */
 #include <stdio.h>
 
 long int factorial(int n);
 
 int main(void)
 {	
-	int x = 7;
-	printf("%d factorial is %ld\n", x, factorial(x));
-	return 0;
+    int x = 7;
+    printf("%d factorial is %ld\n", x, factorial(x));
+    return 0;
 }
+
 long int factorial(int n)
 {
     if (n == 1)
