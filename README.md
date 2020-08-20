@@ -1,4 +1,4 @@
-# This is a test
+# Github and markdown test
 
 **Learn and practice github and markdown!**
 
