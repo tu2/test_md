@@ -1,5 +1,7 @@
 # Github and markdown test
 
+:mask:
+
 **Learn and practice github and markdown!**
 
 ## Header2
