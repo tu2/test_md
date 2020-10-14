@@ -1,6 +1,6 @@
 # Github and markdown test
 
-**Learn and practice github and markdown!**
+**Learn and practice markdown!**
 
 ## Header2
 ### Header3
