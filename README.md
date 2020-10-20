@@ -1,4 +1,4 @@
-# Github and markdown play
+# Markdown practice
 
 **Learn and practice markdown!**
 
