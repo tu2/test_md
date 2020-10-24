@@ -58,7 +58,7 @@ That is why it is called the "present".
 
 _This text_ is *italic* and **this text** is **bold**
 
-**These can be _combined_ if needed**
+**These can be _combined_ **if needed
 
 ### Code blocks
 
