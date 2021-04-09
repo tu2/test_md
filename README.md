@@ -2,8 +2,6 @@
 
 **Learn and practice markdown!**
 
-test for Daniel
-
 ## Header2
 ### Header3
 #### Header4
