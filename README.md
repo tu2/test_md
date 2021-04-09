@@ -142,5 +142,5 @@ Or just this https://github.com/tu2
 :thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
 ****
 
-Here is the best [emoji cheat-sheet](https://www.emoji-cheat-sheet.com/) for github.
+[Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/) for github.
 
