@@ -47,12 +47,12 @@ That is why it is called the "present".
 #### Nested lists
 
 1. Item1
-	* item_1-a
-	* item_1-b
-	* item_1-c
+	* item_1a
+	* item_1b
+	* item_1c
 2. Item2
-	* item_2-a
-	* item_2-b
+	* item_2a
+	* item_2b
 
 ### Styling text
 
