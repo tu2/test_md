@@ -1,6 +1,6 @@
 # Markdown practice
 
-0xff 0xff 0xaa
+
 
 **Learn and practice markdown!**
 
