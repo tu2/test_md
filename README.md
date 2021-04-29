@@ -1,6 +1,7 @@
 # Markdown practice
-
-0xff
+```shell
+0xff 0xffff
+```
 
 **Learn and practice markdown!**
 
