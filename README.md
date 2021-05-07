@@ -1,6 +1,6 @@
 # Markdown practice
 ```shell
-0xff 0x04030201  0x1f 0x11
+0xff 0x04030201
 ```
 
 **Learn and practice markdown!**
