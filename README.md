@@ -1,6 +1,6 @@
 # Markdown practice
 ```bash
-0x80 0x01 0x23 0x11
+||||
 ```
 **Learn and practice markdown!**
 
