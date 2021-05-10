@@ -2,7 +2,6 @@
 ```bash
 ||||
 
-0x11111  0xffff 0x afafa 0xf1f1
 ```
 **Learn and practice markdown!**
 
