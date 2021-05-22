@@ -1,8 +1,5 @@
 # Markdown practice
-```bash
-||||
 
-```
 **Learn and practice markdown!**
 
 ## Header2
