@@ -1,5 +1,6 @@
 # Markdown practice
-<!-- this is a comment -->
+<!-- markdown has comments!
+     this is a comment -->
 
 **Learn and practice markdown!**
 
