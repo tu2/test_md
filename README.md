@@ -128,11 +128,6 @@ echo 'result = ' . $result;
 | cell3        | cell7          | cell11        |
 | cell4        | cell8          | cell12        |
 
-#### Links
-
-Link [to tutorial](https://guides.github.com/features/mastering-markdown/)
-
-Or just this https://github.com/tu2
 
 #### Task Lists
 
@@ -140,6 +135,13 @@ Or just this https://github.com/tu2
 - [x] this is a complete item
 - [ ] this is an incomplete item
 	- [ ] item 
+
+#### Links
+
+Link [to tutorial](https://guides.github.com/features/mastering-markdown/)
+
+Or just this https://github.com/tu2
+
 
 :thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
 ****
