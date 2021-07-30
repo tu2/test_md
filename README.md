@@ -130,7 +130,7 @@ echo 'result = ' . $result;
 
 #### Links
 
-Link [to GitHub](https://www.github.com)
+Link [to tutorial](https://guides.github.com/features/mastering-markdown/)
 
 Or just this https://github.com/tu2
 
