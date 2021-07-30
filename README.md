@@ -140,7 +140,7 @@ echo 'result = ' . $result;
 
 Link [to tutorial](https://guides.github.com/features/mastering-markdown/).
 
-This works as well - https://github.com/tu2
+This works as well: https://github.com/tu2
 
 
 :thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
