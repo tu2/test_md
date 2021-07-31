@@ -146,5 +146,5 @@ This works as well: https://github.com/tu2
 :thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
 ****
 
-[Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/) for github.
+[Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) for github.
 
