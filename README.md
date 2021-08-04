@@ -139,12 +139,11 @@ echo 'result = ' . $result;
 #### Links
 
 Link [to tutorial](https://guides.github.com/features/mastering-markdown/).
+This works as well: https://github.com/tu2
 
 #### Emoji
 
 [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) for github.
-
-This works as well: https://github.com/tu2
 
 
 :thumbsup: I'm having a lot of fun! :heart: :uk: :smile:
