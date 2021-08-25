@@ -138,7 +138,7 @@ echo 'result = ' . $result;
 
 #### Links
 
-Link [to tutorial](https://guides.github.com/features/mastering-markdown/).
+[Mastering markdown](https://guides.github.com/features/mastering-markdown/).
 This works as well: https://github.com/tu2
 
 #### Emoji
