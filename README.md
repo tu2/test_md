@@ -12,11 +12,11 @@
 
 ### Blockquotes
 
-One line blockquote
+**One line blockquote**
 
 >You are confined only by the walls you build yourself
 
-Two lines blockquotes
+**Two lines blockquotes**
 
 ```
 If you don't know where you're going
