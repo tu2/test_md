@@ -55,7 +55,9 @@ That is why it is called the "present".
 
 ### Styling text
 
-_This text_ is *italic* `_text_` **this text** is **bold**
+_This text_ is *italic* `_italic_` or `*italic*`
+
+**This text** is **bold** `**bold**`
 
 **These can be _combined_** if needed
 
