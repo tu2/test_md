@@ -38,7 +38,6 @@ That is why it is called the "present".
 
 * Item1
 * Item2
-* Item3
 
 #### Ordered lists
 
