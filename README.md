@@ -43,7 +43,6 @@ That is why it is called the "present".
 
 1. Item1
 2. Item2
-3. Item3
 
 #### Nested lists
 
