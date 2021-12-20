@@ -118,7 +118,7 @@ echo 'result = ' . $result;
 ```
 ### Tables
 
-| Left Header1 | Center Header2 | Right Header3 |
+| Left aligned | Center aligned | Right aligned |
 | :----------- | :------------: | ------------: |
 | cell1        | cell5          | cell9         |
 | cell2        | cell6          | cell10        |
