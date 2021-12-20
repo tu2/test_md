@@ -49,7 +49,6 @@ That is why it is called the "present".
 1. Item1
 	* item_1a
 	* item_1b
-	* item_1c
 2. Item2
 	* item_2a
 	* item_2b
