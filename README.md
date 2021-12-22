@@ -141,6 +141,12 @@ echo 'result = ' . $result;
 
 This works as well: https://github.com/tu2
 
+### Footnotes
+
+A line with a footnote[^1]
+
+[^1]: The reference 
+
 ### Emoji
 
 [Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
