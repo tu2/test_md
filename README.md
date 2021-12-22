@@ -153,6 +153,6 @@ This works as well: https://github.com/tu2
 
 A line with a footnote[^1] suppose to look like this `[^1]`
 
-[^1]: Footnote reference `[^1]:`
-  New line prefixed with 2 spaces
+[^1]: Footnote reference `[^1]:`.
+  New line prefixed with 2 spaces.
 
