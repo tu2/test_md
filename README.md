@@ -143,9 +143,9 @@ This works as well: https://github.com/tu2
 
 ### Footnotes
 
-A line with a footnote[^1] supose to be like this `[^1]'
+A line with a footnote[^1] suppose to look like this `[^1]`
 
-[^1]: This is the reference to firts note '[^1]:`
+[^1]: The first footnote `[^1]:`
 
 ### Emoji
 
