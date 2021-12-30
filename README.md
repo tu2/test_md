@@ -137,7 +137,7 @@ echo 'result = ' . $result;
 
 ### Links
 
-[Mastering markdown](https://guides.github.com/features/mastering-markdown/).
+[Mastering markdown](https://guides.github.com/features/mastering-markdown/). `[Mastering markdown](https://guides.github.com/features/mastering-markdown/)`
 
 This works as well: https://github.com/tu2
 
